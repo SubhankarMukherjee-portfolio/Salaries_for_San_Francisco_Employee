@@ -22,7 +22,7 @@ This Power BI project analyzes public employee salary data from the City and Cou
 10) How does the salary distribution vary across departments, roles, and benefit groups?
 
 ## Power BI file
-Power BI File = ""
+Power BI File = "https://github.com/SubhankarMukherjee-portfolio/Salaries_for_San_Francisco_Employee/blob/main/salary.pbix"
 ![image](https://github.com/user-attachments/assets/3d6f2d00-3d2e-4933-95e3-2d87b1e6b187)
 ![image](https://github.com/user-attachments/assets/10c3f772-e650-4e17-b55c-ec6f0db7a599)
 ![image](https://github.com/user-attachments/assets/3c7ec540-1698-4682-ab34-de4f2a99c617)
@@ -30,7 +30,7 @@ Power BI File = ""
 
 
 ## PDF file of Dashboard
-PDF File = ""
+PDF File = "https://github.com/SubhankarMukherjee-portfolio/Salaries_for_San_Francisco_Employee/blob/main/salary.pdf"
 
 
 ## Final Observations & Storyline
