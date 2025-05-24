@@ -1,9 +1,6 @@
 # San Francisco Employee Salaries (By using Power BI)
 This Power BI project analyzes public employee salary data from the City and County of San Francisco between 2011 and 2018 to deliver interactive dashboards for workforce and budgetary insights. It integrates data segmented by year, employee name, job title, department, and salary components including base pay, overtime, other pay, and total compensation. The dashboards showcase key performance indicators such as total salary expenditure, average salary, and salary growth trends over the years. Visualizations include trend lines, bar charts, pie charts, and dynamic filterable tables for in-depth analysis. The solution enables users to explore compensation patterns by role and department, identify top earners and high overtime positions, and uncover disparities in salary distribution—empowering strategic planning for HR, finance, and public policy stakeholders.
 
-## Dataset used
-Dataset = ""
-
 ## Objectives of the project
 
 1) To track and visualize the growth of San Francisco employee compensation using KPIs such as total salary expenditure, average salary, and year-over-year growth trends.
